@@ -1,0 +1,7 @@
+{
+  "name": "servidor-basico",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
